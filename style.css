@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+    background:linear-gradient(to top right, #fdf,#ddf);
+    margin:20px 100px;
+    padding: 20px 50px;
+/*    color: ;*/
+    border: 5px dashed #fff;
+}
+
+.right-tag{
+    text-align: right;
+}
+p,ul,li,dd,dt,a{
+    font-size: 20px;
+}
+
